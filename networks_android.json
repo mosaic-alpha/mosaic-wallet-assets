@@ -29,6 +29,26 @@
       "api_url" : "https://api.polygonscan.com/api?",
       "default_on" : true,
       "testnet" : false
+    },
+    {"chain_id" : "97",
+      "network_name" : "BSC TestNet",
+      "symbol" : "BNB",
+      "rpc" : "https://data-seed-prebsc-1-s1.binance.org:8545",
+      "rpc_fallback" : "https://data-seed-prebsc-2-s1.binance.org:8545",
+      "tx_url" : "https://testnet.bscscan.com/tx/",
+      "api_url" : "https://api-testnet.bscscan.com/api?",
+      "default_on" : true,
+      "testnet" : true
+    },
+    {"chain_id" : "80001",
+      "network_name" : "Mumbai Testnet",
+      "symbol" : "MATIC",
+      "rpc" : "https://rpc-mumbai.maticvigil.com/",
+      "rpc_fallback" : "https://rpc-mumbai.matic.today",
+      "tx_url" : "https://mumbai.polygonscan.com/tx/",
+      "api_url" : "https://api-testnet.polygonscan.com/api?",
+      "default_on" : true,
+      "testnet" : true
     }
   ]
 }
