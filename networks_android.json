@@ -33,7 +33,7 @@
     {"chain_id" : "97",
       "network_name" : "BSC TestNet",
       "symbol" : "BNB",
-      "rpc" : "https://data-seed-prebsc-1-s3.binance.org:8545",
+      "rpc" : "https://data-seed-prebsc-1-s1.binance.org:8545",
       "rpc_fallback" : "https://data-seed-prebsc-2-s1.binance.org:8545",
       "tx_url" : "https://testnet.bscscan.com/tx/",
       "api_url" : "https://api-testnet.bscscan.com/api?",
