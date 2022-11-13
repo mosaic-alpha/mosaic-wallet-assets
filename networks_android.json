@@ -8,7 +8,8 @@
       "tx_url" : "https://etherscan.io/tx/",
       "api_url" : "https://api.etherscan.io/api?",
       "default_on" : true,
-      "testnet" : false
+      "testnet" : false,
+      "filter_url" : "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/tokenlist.json"
     },
     {"chain_id" : "56",
       "network_name" : "Binance (BSC)",
@@ -18,7 +19,8 @@
       "tx_url" : "https://bscscan.com/tx/",
       "api_url" : "https://api.bscscan.com/api?",
       "default_on" : true,
-      "testnet" : false
+      "testnet" : false,
+      "filter_url" : "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/tokenlist.json"
     },
     {"chain_id" : "137",
       "network_name" : "Polygon",
@@ -28,7 +30,8 @@
       "tx_url" : "https://polygonscan.com/tx/",
       "api_url" : "https://api.polygonscan.com/api?",
       "default_on" : true,
-      "testnet" : false
+      "testnet" : false,
+      "filter_url" : "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/tokenlist.json"
     },
     {"chain_id" : "97",
       "network_name" : "BSC TestNet",
