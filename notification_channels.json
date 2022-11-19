@@ -4,11 +4,6 @@
       "name": "mosaic",
       "display_name": "Mosaic",
       "default_enabled": true
-    },
-    {
-      "name": "test",
-      "display_name": "Test",
-      "default_enabled": true
     }
   ]
 }
