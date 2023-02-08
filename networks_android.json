@@ -44,7 +44,7 @@
       "testnet" : true
     },
     {"chain_id" : "80001",
-      "network_name" : "Mumbai Testnet",
+      "network_name" : "Polygon (Mumbai) Testnet",
       "symbol" : "MATIC",
       "rpc" : "https://rpc-mumbai.maticvigil.com/",
       "rpc_fallback" : "https://rpc-mumbai.matic.today",
