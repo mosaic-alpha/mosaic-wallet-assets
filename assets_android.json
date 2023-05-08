@@ -11,6 +11,18 @@
       "symbol": "KDX",
       "address": "0xB007549db2A335364dfdCE86001Ee3b081051f03",
       "decimals": 18
+    },
+    {
+      "name": "MosaicAlpha: Blue Cryptos",
+      "symbol": "BLUE",
+      "address": "0xC56821BBC646Cc0C911823F4B08d5092df370733",
+      "decimals": 18
+    },
+    {
+      "name": "MosaicAlpha: Underrated",
+      "symbol": "UNDR",
+      "address": "0xe19A2B9B31CeA9D503E1590c64578026C5983668",
+      "decimals": 18
     }
   ]
 }
