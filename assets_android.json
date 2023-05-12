@@ -23,6 +23,12 @@
       "symbol": "UNDR",
       "address": "0xe19A2B9B31CeA9D503E1590c64578026C5983668",
       "decimals": 18
+    },
+    {
+      "name": "MosaicAlpha: Circle",
+      "symbol": "CIRC",
+      "address": "0xAFb393841C01C24fDe52392483B7ec3367EbbD7D",
+      "decimals": 18
     }
   ]
 }
