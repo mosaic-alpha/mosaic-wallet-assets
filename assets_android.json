@@ -29,6 +29,18 @@
       "symbol": "CIRC",
       "address": "0xAFb393841C01C24fDe52392483B7ec3367EbbD7D",
       "decimals": 18
+    },
+    {
+      "name": "MosaicAlpha: Kodexa-USDT LP",
+      "symbol": "KDXLP",
+      "address": "0xA5fD5d0D31800258D51317c529e820689c68EEEA",
+      "decimals": 18
+    },
+    {
+      "name": "MosaicAlpha: Future of Internet",
+      "symbol": "FOI",
+      "address": "0xd48467F681A6872bF653408b36Ac0909A36B1Ad2",
+      "decimals": 18
     }
   ]
 }
