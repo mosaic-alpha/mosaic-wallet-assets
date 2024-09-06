@@ -16,7 +16,7 @@
       "symbol" : "BNB",
       "rpc" : "https://bsc-dataseed.binance.org",
       "rpc_fallback" : "https://bsc-dataseed2.ninicoin.io:443",
-      "tx_url" : "https://bscscan.com/tx/",
+      "tx_url" : "https://explorer.binance.org/smart/tx/",
       "api_url" : "https://api.bscscan.com/api?",
       "default_on" : true,
       "testnet" : false,
