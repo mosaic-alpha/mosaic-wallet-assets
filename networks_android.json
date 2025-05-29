@@ -17,7 +17,7 @@
       "rpc" : "https://bsc-dataseed.binance.org",
       "rpc_fallback" : "https://bsc-dataseed2.ninicoin.io:443",
       "tx_url" : "https://bscscan.com/tx/",
-      "api_url" : "https://api.bscscan.com/api?",
+      "api_url" : "https://api.etherscan.io/v2/api?chainid=56",
       "default_on" : true,
       "testnet" : false,
       "filter_url" : "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/tokenlist.json"
